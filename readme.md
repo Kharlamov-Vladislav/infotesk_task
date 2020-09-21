@@ -4,10 +4,10 @@
 
 # Table of contents
 
-1. [Methods](#sec1) <a name="sec1"></a>
-    1.1. [Method 1](#sec1.1)</br>
-    1.2. [Method 2](#sec1.2)</br>
-    1.3. [Method 3](#sec1.3)</br>
+1. [Methods](#sec1) <a name="sec1"></a>     
+    1.1. [Method 1](#sec1.1)</br>    
+    1.2. [Method 2](#sec1.2)</br>    
+    1.3. [Method 3](#sec1.3)</br>    
     
 
 ## Method 1
